@@ -1,0 +1,9 @@
+[submodule "direct/juju/retry"]
+	path = direct/juju/retry
+	url = git@github.com:juju/retry.git
+[submodule "direct/rican7/retry"]
+	path = direct/rican7/retry
+	url = git@github.com:rican7/retry.git
+[submodule "direct/andrew-plunk/retry"]
+	path = direct/andrew-plunk/retry
+	url = git@github.com:andrew-plunk/retry.git
