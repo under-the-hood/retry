@@ -1,9 +1,9 @@
 [submodule "direct/juju/retry"]
 	path = direct/juju/retry
 	url = git@github.com:juju/retry.git
-[submodule "direct/rican7/retry"]
-	path = direct/rican7/retry
-	url = git@github.com:rican7/retry.git
+[submodule "direct/Rican7/retry"]
+	path = direct/Rican7/retry
+	url = git@github.com:Rican7/retry.git
 [submodule "direct/andrew-plunk/retry"]
 	path = direct/andrew-plunk/retry
 	url = git@github.com:andrew-plunk/retry.git
@@ -19,3 +19,6 @@
 [submodule "list/avelino/awesome-go"]
 	path = list/avelino/awesome-go
 	url = git@github.com:avelino/awesome-go.git
+[submodule "direct/matryer/try"]
+	path = direct/matryer/try
+	url = git@github.com:matryer/try.git
