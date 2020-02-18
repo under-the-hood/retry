@@ -16,3 +16,6 @@
 [submodule "direct/go-pkgz/repeater"]
 	path = direct/go-pkgz/repeater
 	url = git@github.com:go-pkgz/repeater.git
+[submodule "list/avelino/awesome-go"]
+	path = list/avelino/awesome-go
+	url = git@github.com:avelino/awesome-go.git
