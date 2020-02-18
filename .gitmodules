@@ -7,3 +7,12 @@
 [submodule "direct/andrew-plunk/retry"]
 	path = direct/andrew-plunk/retry
 	url = git@github.com:andrew-plunk/retry.git
+[submodule "direct/avast/retry-go"]
+	path = direct/avast/retry-go
+	url = git@github.com:avast/retry-go.git
+[submodule "direct/adamliesko/retry"]
+	path = direct/adamliesko/retry
+	url = git@github.com:adamliesko/retry.git
+[submodule "direct/go-pkgz/repeater"]
+	path = direct/go-pkgz/repeater
+	url = git@github.com:go-pkgz/repeater.git
