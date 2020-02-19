@@ -22,3 +22,45 @@
 [submodule "direct/matryer/try"]
 	path = direct/matryer/try
 	url = git@github.com:matryer/try.git
+[submodule "direct/ssgreg/repeat"]
+	path = direct/ssgreg/repeat
+	url = git@github.com:ssgreg/repeat.git
+[submodule "direct/thedevsaddam/retry"]
+	path = direct/thedevsaddam/retry
+	url = git@github.com:thedevsaddam/retry.git
+[submodule "direct/Songmu/retry"]
+	path = direct/Songmu/retry
+	url = git@github.com:Songmu/retry.git
+[submodule "direct/shafreeck/retry"]
+	path = direct/shafreeck/retry
+	url = git@github.com:shafreeck/retry.git
+[submodule "direct/go-retry/retry"]
+	path = direct/go-retry/retry
+	url = git@github.com:go-retry/retry.git
+[submodule "direct/rafaeljesus/retry-go"]
+	path = direct/rafaeljesus/retry-go
+	url = git@github.com:rafaeljesus/retry-go.git
+[submodule "direct/dgrijalva/retry"]
+	path = direct/dgrijalva/retry
+	url = git@github.com:dgrijalva/retry.git
+[submodule "direct/maraino/retry"]
+	path = direct/maraino/retry
+	url = git@github.com:maraino/retry.git
+[submodule "direct/percolate/retry"]
+	path = direct/percolate/retry
+	url = git@github.com:percolate/retry.git
+[submodule "direct/lytics/retr"]
+	path = direct/lytics/retr
+	url = git@github.com:lytics/retry.git
+[submodule "direct/azr/retry"]
+	path = direct/azr/retry
+	url = git@github.com:azr/retry.git
+[submodule "direct/bernos/go-retry"]
+	path = direct/bernos/go-retry
+	url = git@github.com:bernos/go-retry.git
+[submodule "direct/eapache/go-resiliency"]
+	path = direct/eapache/go-resiliency
+	url = git@github.com:eapache/go-resiliency.git
+[submodule "direct/dron22/go-resiliency"]
+	path = direct/dron22/go-resiliency
+	url = git@github.com:dron22/go-resiliency.git
