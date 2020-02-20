@@ -64,3 +64,33 @@
 [submodule "direct/dron22/go-resiliency"]
 	path = direct/dron22/go-resiliency
 	url = git@github.com:dron22/go-resiliency.git
+[submodule "indirect/h2non/gentleman-retry"]
+	path = indirect/h2non/gentleman-retry
+	url = git@github.com:h2non/gentleman-retry.git
+[submodule "indirect/technoweenie/httpretry"]
+	path = indirect/technoweenie/httpretry
+	url = git@github.com:technoweenie/httpretry.git
+[submodule "indirect/aybabtme/untilitworks"]
+	path = indirect/aybabtme/untilitworks
+	url = git@github.com:aybabtme/untilitworks.git
+[submodule "indirect/sethgrid/pester"]
+	path = indirect/sethgrid/pester
+	url = git@github.com:sethgrid/pester.git
+[submodule "indirect/syncromesh/pester"]
+	path = indirect/syncromesh/pester
+	url = git@github.com:syncromesh/pester.git
+[submodule "indirect/hashicorp/go-retryablehttp"]
+	path = indirect/hashicorp/go-retryablehttp
+	url = git@github.com:hashicorp/go-retryablehttp.git
+[submodule "indirect/fravega/go-retryablehttp"]
+	path = indirect/fravega/go-retryablehttp
+	url = git@github.com:fravega/go-retryablehttp.git
+[submodule "indirect/gojek/heimdall"]
+	path = indirect/gojek/heimdall
+	url = git@github.com:gojek/heimdall.git
+[submodule "indirect/go-resty/resty"]
+	path = indirect/go-resty/resty
+	url = git@github.com:go-resty/resty.git
+[submodule "indirect/carlescere/goback"]
+	path = indirect/carlescere/goback
+	url = git@github.com:carlescere/goback.git
