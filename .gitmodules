@@ -94,3 +94,12 @@
 [submodule "indirect/carlescere/goback"]
 	path = indirect/carlescere/goback
 	url = git@github.com:carlescere/goback.git
+[submodule "direct/lestrrat-go/backoff"]
+	path = direct/lestrrat-go/backoff
+	url = git@github.com:lestrrat-go/backoff.git
+[submodule "indirect/jpillora/backoff"]
+	path = indirect/jpillora/backoff
+	url = git@github.com:jpillora/backoff.git
+[submodule "direct/cenkalti/backoff"]
+	path = direct/cenkalti/backoff
+	url = git@github.com:cenkalti/backoff.git
