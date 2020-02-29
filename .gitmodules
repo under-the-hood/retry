@@ -103,3 +103,6 @@
 [submodule "direct/cenkalti/backoff"]
 	path = direct/cenkalti/backoff
 	url = git@github.com:cenkalti/backoff.git
+[submodule "direct/slok/goresilience"]
+	path = direct/slok/goresilience
+	url = git@github.com:slok/goresilience.git

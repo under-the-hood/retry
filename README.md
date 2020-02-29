@@ -6,7 +6,7 @@
 
 ## 📚 Related articles and docs
 
-...
+- [ ] [Goresilience a Go library to improve applications resiliency](https://medium.com/@slok/goresilience-a-go-library-to-improve-applications-resiliency-14d229aee385)
 
 ## 🗂 Related projects
 
