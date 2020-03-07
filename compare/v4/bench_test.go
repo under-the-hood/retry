@@ -12,14 +12,12 @@ import (
 	"github.com/kamilsk/retry/v4/strategy"
 )
 
-// Benchmark/normal-4         	     100	  11261489 ns/op	         4.00 goroutines	     420 B/op	       7 allocs/op
-// Benchmark/worst-4          	      46	  25642897 ns/op	         4.00 goroutines	     611 B/op	      11 allocs/op
 func Benchmark(b *testing.B) {
 	how := retry.How{
 		strategy.Limit(5),
 		strategy.Backoff(backoff.Constant(10 * time.Millisecond)),
 	}
-	b.Run("normal", func(b *testing.B) {
+	b.Run("usual", func(b *testing.B) {
 		what := func(uint) error {
 			time.Sleep(10 * time.Millisecond)
 			return nil

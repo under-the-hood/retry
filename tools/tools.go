@@ -6,10 +6,12 @@ package tools
 
 import (
 	_ "github.com/rakyll/hey"
+	_ "golang.org/x/perf/cmd/benchstat"
 	_ "golang.org/x/tools/cmd/benchcmp"
 	_ "golang.org/x/tools/cmd/goimports"
 )
 
 //go:generate go install github.com/rakyll/hey
+//go:generate go install golang.org/x/perf/cmd/benchstat
 //go:generate go install golang.org/x/tools/cmd/benchcmp
 //go:generate go install golang.org/x/tools/cmd/goimports
