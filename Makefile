@@ -27,3 +27,14 @@ bench:
 	@benchcmp v4.out v5.async.out
 	@echo "\n---\n"
 	@benchcmp v5.async.out v5.sync.out
+
+.PHONY: load
+load:
+	@hey \
+		-c 2 \
+		-z 1m \
+		-m GET \
+		-t 0 \
+		-T 'application/json' \
+		-H 'X-Timeout: 10ms' \
+		http://localhost:8080
